@@ -4,3 +4,5 @@ Die jeweiligen Termin sind in der Datei nicht entsprechend RFC 5545 eingetragen,
 Das Programm liest die Termine ein und addiert jeweils zum Enddatum einen Tag. Somit werden die Termine korrekt als ganztägiger Termin
 importiert. Zusätzlich kann jeder Termin mit einer Erinnerung versehen werden. Die Erinnerung muss in Stunden vor Termin eingetragen werden (von Mitternacht rückwärts).
 Für eine Erinnerung z.B. um 17 Uhr daher -7 Stunden einstellen.
+
+Das Programm kann [hier](/Release/Release_1.0.0.zip) heruntergeladen werden.
